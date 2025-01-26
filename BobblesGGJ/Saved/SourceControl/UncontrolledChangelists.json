@@ -6,8 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Water/Content/Materials/HLOD/HLODWater.uasset",
-				"C:/Users/uetc2/Documents/GitHub/BobblesGGJ/BobblesGGJ/Content/ThirdPerson/Maps/Movement1.umap",
-				"C:/Users/uetc2/Documents/GitHub/BobblesGGJ/BobblesGGJ/Content/Blueprints/BP_DuckCharacter.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/watermap.umap",
@@ -22,6 +20,12 @@
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/Inputs/AI_Movement.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/Blueprints/BPAcor.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/Blueprints/BP_DuckPawn.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/DrivableBoat/Blueprints/BP_Boat.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/DrivableBoat/Blueprints/BP_BoatDuck.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/DrivableBoat/Maps/Demo.umap",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/DrivableBoat/Blueprints/BP_Boat1.uasset",
+				"C:/Users/uetc2/Documents/GitHub/BobblesGGJ/BobblesGGJ/Content/ThirdPerson/Maps/Movement1.umap",
+				"C:/Users/uetc2/Documents/GitHub/BobblesGGJ/BobblesGGJ/Content/Blueprints/BP_DuckCharacter.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/Blueprints/BP_FloatingObject.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Content/Blueprints/BP_Duck.uasset"
 			]
