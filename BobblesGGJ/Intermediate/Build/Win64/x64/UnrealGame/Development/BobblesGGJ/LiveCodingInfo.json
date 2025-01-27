@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BobblesGGJ.cpp.obj": [
+			"BobblesGGJ.cpp.obj"
+		]
+	}
+}

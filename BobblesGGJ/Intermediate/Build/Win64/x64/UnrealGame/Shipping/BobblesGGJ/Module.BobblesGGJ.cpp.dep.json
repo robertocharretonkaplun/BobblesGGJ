@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rchar\\onedrive\\documentos\\github\\bobblesggj\\bobblesggj\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\bobblesggj\\module.bobblesggj.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rchar\\onedrive\\documentos\\github\\bobblesggj\\bobblesggj\\intermediate\\build\\win64\\x64\\bobblesggj\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\rchar\\onedrive\\documentos\\github\\bobblesggj\\bobblesggj\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\bobblesggj\\definitions.bobblesggj.h",
+            "c:\\users\\rchar\\onedrive\\documentos\\github\\bobblesggj\\bobblesggj\\intermediate\\source\\bobblesggj.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

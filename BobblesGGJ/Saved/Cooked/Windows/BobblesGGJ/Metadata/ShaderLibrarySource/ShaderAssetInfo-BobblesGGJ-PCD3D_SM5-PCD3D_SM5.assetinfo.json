@@ -1,0 +1,750 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "B52E1F00CCAED807C15A9AFC0F76A287B1CC8E00",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E887E2014001CC1284960B18E957C69EA9AE23FB",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9B5F1205A792DB0D2E63E352DED5402A5C6B1241",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "DAA16F0712DC83866081B2AE5B58EBA8C1B0AA91",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "701DD507BA2ABF973530A43185ED3FCEF94AC14B",
+			"Assets": [
+				"/Game/Personalized/Textures/BathRoom/WallTiles/Tiles134A_2K-PNG_Color_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "4D57140878BC17459A3CD3E4971A9433823A6831",
+			"Assets": [
+				"/Game/SHADERS/M_DUCK"
+			]
+		},
+		{
+			"ShaderMapHash": "583E3F09DA130AB2150236D4F6D187879634780A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "876A8509ADF6983AB6127289CBBB7B94B128028C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "252EA30B8CA645D4843F00135C23F7ED6F917CF6",
+			"Assets": [
+				"/Game/Personalized/Textures/BathRoom/FloorTiles/M_FloorTiles"
+			]
+		},
+		{
+			"ShaderMapHash": "0B04B40E49BD5E920A5D27E53A91106ABB3C8987",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "58B1C50E2263C3F7A093B4636964549D4751AE2E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B243DD0F7209D58CA18C398691E9F4F3B5DC4DEA",
+			"Assets": [
+				"/Game/Personalized/Textures/BathRoom/WallTiles/M_Tiles2"
+			]
+		},
+		{
+			"ShaderMapHash": "7EFF9B115D7292B4E86518204D0BDAEB80E41C04",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Shampoo/BotDispenser/chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "F054F611C1D0DB0CF5E64624CDB40F0305465073",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5CD90E1218FE2BC26E44705469763671EB05FDCD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CEFB48128FF01D3C079FDA728288E4D700BB3D28",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "45117E129E945BEC8F0D07C53908870B257ECF8D",
+			"Assets": [
+				"/Game/Personalized/Meshes/Pistola/01_-_Default",
+				"/Game/Personalized/Meshes/Pistola/02_-_Default",
+				"/Game/Personalized/Meshes/Pistola/03_-_Default",
+				"/Game/Personalized/Meshes/Pistola/04_-_Default",
+				"/Game/Personalized/Meshes/Pistola/05_-_Default",
+				"/Game/Personalized/Meshes/Pistola/M_ALERON"
+			]
+		},
+		{
+			"ShaderMapHash": "9D1EC815FCFE026ABCC343AD71D6F5DB7E15C7E3",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "ED3C7F18149F614CCCBAF4C23342728E4306A946",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "04DA1C1B511361121A5071B6A8DEC569E1279864",
+			"Assets": [
+				"/Game/DrivableBoat/Materials/M_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "3BB43C1BD1DE8D66FCE4D7F47FA7E493DD8D0038",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "E0B72E1E220B4807DCDF1B469A0FB2F77ED1FAAF",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "FCBD2D200176743EF9959FD3AD97628C0A91769F",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/Candle/acn-aid-to-the-church-in-need-candle-597182"
+			]
+		},
+		{
+			"ShaderMapHash": "4F677F20F2A40042927EFC225F66F5C8514C7BBF",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Repisa/Textures/M_Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "26130621326E643DE16B1FD5E1507983025B44C7",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1061892244E2016A50BA0974915A4050F52E84EF",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "8D24DF24D7A48EF9B9313973A777BB18C2402851",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "6B087627966B66EC444186BFB3E28A0A5A44FB81",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "8A440A28073F8FFBA4CE78BC597A0A5503C3EA0A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D2FC332DA2F00814449A41F3611C9B298C2380ED",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/BathHB/V2/Materiales/M_CepilloC",
+				"/Game/Personalized/Meshes/Bath_Props/Props/BathHB/V2/Materiales/M_GabineteLav",
+				"/Game/Personalized/Meshes/Bath_Props/Props/BathHB/V2/Materiales/M_GabineteLavPe",
+				"/Game/Personalized/Meshes/Bath_Props/Props/BathHB/V2/Materiales/M_Grifo",
+				"/Game/Personalized/Meshes/Bath_Props/Props/BathHB/V2/Materiales/M_Jabonera",
+				"/Game/Personalized/Meshes/Bath_Props/Props/BathHB/V2/Materiales/M_Lavabo",
+				"/Game/Personalized/Meshes/Bath_Props/Props/BathHB/V2/Materiales/M_Llave",
+				"/Game/Personalized/Meshes/Bath_Props/Props/BathHB/V2/Materiales/M_Vaso"
+			]
+		},
+		{
+			"ShaderMapHash": "77A3A82E385E6CB932CCB6ADC60968FDF14BBDC8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "16D8FE2EF233FDCC4B274E69FED8F203150F0D68",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6034C538A301AB33237CCDAC13B69B8FBFDC83FF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7522143A2016D065C2A3ADBE39FA5BA15212165D",
+			"Assets": [
+				"/Game/SHADERS/M_STYLIZED_WATER"
+			]
+		},
+		{
+			"ShaderMapHash": "AFA6773B94CA5E313108E798F5F3110C83E9C4C8",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/Candle/Material_003"
+			]
+		},
+		{
+			"ShaderMapHash": "4E68E73C213DB8182D32EC6DFED98DEE438DABCB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ADF9783E451BBD6F426646EA73173D5A3143BC07",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "B42DFD3E6D57209A942B07F157D676BA3EAF29DA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "320CDD401E151F5CC714EE553957578BCA2EBF02",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6672F34196F6A3F18D1ADE89DABEFCC9B4F8E41E",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Shampoo/BotDispenser/bottle001_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "428196425AA220EDA5A5E28ACBD4BF917F63F12F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "330CC643A8ED7DA3556727C78310B524B6ED24B4",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "39929646DBD5649A43AB72B500E78C7326430533",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "33A8D147EF0375454C59CA6C643345594E75FFC7",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D6680548DFE49C1A2C69FCA51FBB438448771FBD",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0033D34A2F4F97C97EA1816078772F0646E9EF89",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5F8DD94F78FD4D802642B20F2944BD8B7310A567",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "5210E2531695261D913C9FF27915BCD6A9786A9A",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "64BCEA55C4C24B6634D5A0530BECFF6344C481F8",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Mirror/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "A904E767C40BEFEFD2AF9DA2A5F5CA09DFF28877",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "F0D384688A21607E235B250C6ED805F96D449A7A",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/Sponge/1/material0"
+			]
+		},
+		{
+			"ShaderMapHash": "FD9D826A181223FFA8973616259762977E852C47",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "F065A16C0355DF061DBD31DBB030BC8F8FA1ED8E",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Shampoo/Chaquisimos/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "D0962070D1EFDB2EF2C93743A59B1348A655E422",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "96B030703B088BAEDCA5E8382DA0D8A3B402C1C6",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "D0CAB370B33CE7B7A3D3ED890BAF3FE11FEFAFBC",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "E76CF27261358225192BBBEF2EA1FE23A6A4DDF4",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/Frame/Back",
+				"/Game/Personalized/Meshes/Bath_Props/Props/Frame/Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "157DCD742100EB544A3BB0FADA72FAA22BE085F4",
+			"Assets": [
+				"/Game/Personalized/Textures/BathRoom/Carpet/M_Carpet"
+			]
+		},
+		{
+			"ShaderMapHash": "B4E22A77A808B5C92EDACF7A872E94EE56798890",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "F7EE8E78AAA4556D8B92C9FF376FEF0594476981",
+			"Assets": [
+				"/Game/SHADERS/M_BUBBLE_STYLIZED"
+			]
+		},
+		{
+			"ShaderMapHash": "239FCE79F06C0BE9976135AC0D3B2783BE974F36",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "49D3FF7B126457D23C44BD8BE5C422C6045DBD70",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "956C0B7C49BEEAFF7AB319D3F29EFDFB03928D4E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C5640D7CF09079AE4ECB38C51A5FB75F45949787",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0EA1227FF5CE7CF1859E669782B686D5C2EF0693",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "ABFF267F4A5A10C4D79AF096123116690BC088D5",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "70F41084DC7274E8BDC9D6CA5F79A8B4A8BA00A5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "550CCA8C5C5EE4FE7E092D72875F5B10D932892F",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Toilet_PaperRoll/ToiletPaperRoll1"
+			]
+		},
+		{
+			"ShaderMapHash": "1AF5848D319613B0D18DE2BDA9CF15272872B649",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Repisa/Textures/M_Wood1"
+			]
+		},
+		{
+			"ShaderMapHash": "D674888DB57FDEEF69631175192661BDE7DBB083",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "AB7F5F918EB9886C8E52123DCC8A045AF8F02874",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D0B27E91A8140BCA61EFE5503623AE0F890A2F05",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "9A805098C42C67B3FA48E9A48F53CADC3E7E5366",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "440ED4980DEEA500D2DC86924A327CCE27EE245C",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AFF4069943148BEDEFB850C29CE2AA9947255EAE",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "FC39D299DD4B16A2E7E8C06CF7C52B73C2500177",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "82E6DC9C596DD6AAA8C097ED02381484874420E5",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F11F689DB6FF060246CFD7840B1C78967936E600",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7BDC1FA06BE59BF740629282C15475DC3B0B5935",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "8EC02CA0C41E83468B0EF860F981B8589D66FBC7",
+			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master",
+				"/Game/FPWeapon/Materials/BaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "53F2DEA972C2DDB2429EEAAFDCD50BDA396F1D6D",
+			"Assets": [
+				"/Game/DrivableBoat/Materials/M_BasicWall"
+			]
+		},
+		{
+			"ShaderMapHash": "6FA6CBAA94F9932F3956C837B611DDBE8AADBF60",
+			"Assets": [
+				"/Game/Models/Rubber_Duck/Duck1",
+				"/Game/Personalized/Meshes/Bath_Props/Props/Frame/Picture",
+				"/Game/Personalized/Meshes/Bath_Props/Shampoo/Chaquisimos/Material_002",
+				"/Game/Personalized/Meshes/Bath_Props/Shampoo/Chaquisimos/Material_003",
+				"/Game/Personalized/Meshes/City/Basketball",
+				"/Game/Personalized/Meshes/City/CityProps",
+				"/Game/Personalized/Meshes/City/CityProps1GLOW",
+				"/Game/Personalized/Meshes/City/Clinic",
+				"/Game/Personalized/Meshes/City/elise",
+				"/Game/Personalized/Meshes/City/FillerBuildings1",
+				"/Game/Personalized/Meshes/City/FillerBuildings1GLOW",
+				"/Game/Personalized/Meshes/City/FishFactory",
+				"/Game/Personalized/Meshes/City/FishFactory1GLOW",
+				"/Game/Personalized/Meshes/City/Laundrymat",
+				"/Game/Personalized/Meshes/City/LMProjects",
+				"/Game/Personalized/Meshes/City/LMProjects1GLOW",
+				"/Game/Personalized/Meshes/City/Paramount",
+				"/Game/Personalized/Meshes/City/Paramount1GLOW",
+				"/Game/Personalized/Meshes/City/Pawnshop",
+				"/Game/Personalized/Meshes/City/Pawnshop1GLOW",
+				"/Game/Personalized/Meshes/City/RoadsGround",
+				"/Game/Personalized/Meshes/City/Tire",
+				"/Game/Personalized/Meshes/City/WhiteGlow",
+				"/Game/Personalized/Meshes/City/WhiteGlow1"
+			]
+		},
+		{
+			"ShaderMapHash": "2AE5C0AB677058B151304286BCABB0A5DB5E0C34",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7571ACAC15EBE221F6EFC6C8DDACA7E08FC505EA",
+			"Assets": [
+				"/Game/Personalized/Meshes/Cabin/TExtures/GlassDoor/M_BathGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "B974F4ADD526283BA9568D06ED4ED4A35505F2D5",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/Soap/M_Soap"
+			]
+		},
+		{
+			"ShaderMapHash": "8710B1B1B89E3E88EE5B7708956B77B5FA62CA5C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "98A857B3007F2C8E7A1C77ECA3BA924C1C41855C",
+			"Assets": [
+				"/Game/Personalized/CartoonMat/M_CelShader"
+			]
+		},
+		{
+			"ShaderMapHash": "B3602CB5BE34B235EC8ACE178C59D95B6347228F",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "078A55B8F5EE6A0E11C47F37A2F5693E18A1B07A",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/Lotion/Mats/Lotion"
+			]
+		},
+		{
+			"ShaderMapHash": "E3780AB90509F0D202291E2324BAE8E831143E70",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "EFB4F5BB89256ED9C45B8447BC3EE3232AA0F145",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/BathHB/V1/BathHb1"
+			]
+		},
+		{
+			"ShaderMapHash": "777010BC9493D0A02FD3897F33D8D40D9D9A2944",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/Candle/Glass_Shell"
+			]
+		},
+		{
+			"ShaderMapHash": "2B8F69C215EBFD12AAF73B462E9B4CABD3858E88",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "090DF6C674EFBCAF860E8F241E1839E0F87A8CDD",
+			"Assets": [
+				"/Game/Personalized/Meshes/Cabin/TExtures/Button/M_BathBotton"
+			]
+		},
+		{
+			"ShaderMapHash": "38D40CCAEB82E9EB230018255E3E3485A98C9E5B",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "B8C1FDCAE75B944CF1DEE76CC7FDC374524F0F35",
+			"Assets": [
+				"/Game/Personalized/Textures/BathRoom/WallPlaster/Mat_WallPlaster"
+			]
+		},
+		{
+			"ShaderMapHash": "C2BE37CBEF726C92E1C9480F5A7BEE55D7BB5613",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Shampoo/Bottle2/wire_143225087",
+				"/Game/Personalized/Meshes/Cabin/TExtures/Shower/M_BathShower",
+				"/Game/Personalized/Meshes/Cabin/TExtures/Walls/M_BathWalls"
+			]
+		},
+		{
+			"ShaderMapHash": "CC553DD0BA36B803EA7BB3390B0AA7324AF87F8E",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Shampoo/BotDispenser/stick_white"
+			]
+		},
+		{
+			"ShaderMapHash": "D31B78D03E2550948E0BEEF7BB2F07028AAD32B4",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/Candle/BONFIRE_STICKER_002"
+			]
+		},
+		{
+			"ShaderMapHash": "80145DD3CE4EA6C8CB52E990BD3184CCAA0262F9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "8E38FCD94785BAFBD8448A3D37057D3B339EE3D3",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C11799DBC510DDA5EDAF8DA24DC7A63CF0959A6A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "FF1459DF79C16FFF982BBFEFCA2F91074D0BB4FC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "F9506EDF1C4EFA38AC0002A537C3173507C6B07F",
+			"Assets": [
+				"/Game/Models/Black_Glasses",
+				"/Game/Models/Duck_001",
+				"/Game/Models/Metal",
+				"/Game/Personalized/Meshes/Bath_Props/Props/Candle/BONDFIRE",
+				"/Game/Personalized/Meshes/Bath_Props/Shampoo/Chaquisimos/Material",
+				"/Game/Personalized/Meshes/City/GreenGlow",
+				"/Game/Personalized/Meshes/City/RedGLOW"
+			]
+		},
+		{
+			"ShaderMapHash": "E74C3AE1977BE47D188CD23358E169CBB2239DEB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "8599D5E28511A4F5740673E2AF8965ACFC2D5715",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "D91411E357762DE94CA1C5A57CB5B379F4898FC2",
+			"Assets": [
+				"/Game/Personalized/Meshes/Bath_Props/Props/Sponge/2/SpongeBlue",
+				"/Game/Personalized/Meshes/Bath_Props/Props/Sponge/2/SpongeGreen",
+				"/Game/Personalized/Meshes/Bath_Props/Props/Sponge/2/SpongePurple"
+			]
+		},
+		{
+			"ShaderMapHash": "8FC747E37AB725E3F60F54292C29790FF5274180",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "77D53EE50C58A4B6434381E7139EC1BA9C523893",
+			"Assets": [
+				"/Game/SHADERS/M_BUBBLE_Projectile"
+			]
+		},
+		{
+			"ShaderMapHash": "B5E0B9E8A640DA70ED23A65B4508D1ABD7535051",
+			"Assets": [
+				"/Water/Materials/WaterInfo/DrawWaterInfo"
+			]
+		},
+		{
+			"ShaderMapHash": "4927A6EE827CB91675EF41CFDDA067ADA2E25093",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "FF1145F6A7D2C96D666CB7F3A5DFD7F11B0D3512",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CA72D0F7944C4563C70D133F64977044A60EBE0B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "41C209FBAB4912F5BB45AE7368EF13348DF6BB50",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
+			]
+		},
+		{
+			"ShaderMapHash": "9CC9BCFB1252CD82B805F55F219E2DC1B1C5BCF4",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9F7AA6FD9E1FB9EC7BC35C7BCF6EB83B7AA3F46F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\rchar\\OneDrive\\Documentos\\GitHub\\BobblesGGJ\\BobblesGGJ\\Intermediate\\Source\\BobblesGGJ.Build.cs",
+		"C:\\Users\\rchar\\OneDrive\\Documentos\\GitHub\\BobblesGGJ\\BobblesGGJ\\Intermediate\\Source\\BobblesGGJ.Target.cs",
+		"C:\\Users\\rchar\\OneDrive\\Documentos\\GitHub\\BobblesGGJ\\BobblesGGJ\\Intermediate\\Source\\BobblesGGJClient.Target.cs",
+		"C:\\Users\\rchar\\OneDrive\\Documentos\\GitHub\\BobblesGGJ\\BobblesGGJ\\Intermediate\\Source\\BobblesGGJEditor.Target.cs",
+		"C:\\Users\\rchar\\OneDrive\\Documentos\\GitHub\\BobblesGGJ\\BobblesGGJ\\Intermediate\\Source\\BobblesGGJServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

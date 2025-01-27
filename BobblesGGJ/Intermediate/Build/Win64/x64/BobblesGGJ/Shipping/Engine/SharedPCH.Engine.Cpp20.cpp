@@ -1,0 +1,2 @@
+// Compiler: 14.36.32532
+#include "C:/Users/rchar/OneDrive/Documentos/GitHub/BobblesGGJ/BobblesGGJ/Intermediate/Build/Win64/x64/BobblesGGJ/Shipping/Engine/SharedPCH.Engine.Cpp20.h"
